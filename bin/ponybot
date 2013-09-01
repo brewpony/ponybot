@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./bin/hubot --name ponybot --adapter hipchat --enable-slash
